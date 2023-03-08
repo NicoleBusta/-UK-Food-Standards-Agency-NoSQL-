@@ -14,7 +14,7 @@ The following steps were completed to analyze the ratings data:
 <hr>
 
 ## Results
-<li><a href = "Resources/MongoDB Compass Screenshot for Challenge 12.docx"> UK_FOOD Database </a></li>
+<a href = "Resources/MongoDB Compass Screenshot for Challenge 12.docx"> UK_FOOD Database </a>
 
 ## Resources
 #### <b> Data Source:</b> establishments.json
