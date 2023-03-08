@@ -4,36 +4,20 @@
 <img src = "Images/FSA.jpg">
 
 ## Overview of Project
-The purpose of this project was to analyze Company employees during the 1980s and 1990s. All that remains of the employee database from that time period were six CSV files.
+The purpose of this project is to evaluate some of the ratings in order to assist journalists and food critics in identifying the establishments to focus on for future articles.
 
-Data modeling, data engineering, and data analysis were completed for the analysis.  Specifically, the following steps were completed:
-<ul> •	Designed an SQL database </ul>
-<ul> •	Created six tables to correspond to the six CSV files </ul>
-<ul> •	Imported data from the CSV files </ul>
-<ul> •	Completed queries to answer key HR questions </ul>
+The following steps were completed to analyze the ratings data:
+<ul> •	Import the available JSON data </ul>
+<ul> •	Create a Mongo Client instance </ul>
+<ul> •	Update the database (add new restaurant) and clean the data </ul>
+<ul> •	Conduct exploratory analysis based on rating values </ul>
 <hr>
 
-## Data Modeling
-QuickDBD and pgAdmin were used to created the below ERDs.
-
-<img src = "Images/PewlettHackard_db_ERD_QuickDBD.png">
-<img src = "Images/PewlettHackard_db_ERD.png">
-
-
-
-## Data Analysis
-For the data analysis portion of the project, eight queries were run to generate the following reports:  
-<li><a href = "Query Results/Query 1_data-1676224140167.csv"> Complete Employee Listing (employee number, last & first name, sex, salary) </a></li>
-
-
-
-## Query Details
-<li><a href = "EmployeeSQL/Query #1.sql"> Query #1 </a></li>
-
-
+## Results
+<li><a href = "Resources/MongoDB Compass Screenshot for Challenge 12.docx"> UK_FOOD Database </a></li>
 
 ## Resources
-#### Data Sources: 
-departments.csv, dept_emp.csvdept_manager.csv, employees.csv, salaries.csv, titles.csv
+#### Data Source: 
+establishments.json
 #### Software: 
-SQL, PostgresSQL, pgAdmin, QuickDBD, VSCode
+Jupyter, Python, Pandas, MongoDB Compass, VSCode
