@@ -14,9 +14,11 @@ The following steps were completed to analyze the ratings data:
 <hr>
 
 ## Results
-<a href = "Resources/MongoDB Compass Screenshot for Challenge 12.docx"> UK_FOOD Database </a>
+<img src = "Images/MongoDBCompass.png">
 
 ## Resources
-#### <b> Data Source:</b> establishments.json
+### Data Source:
+establishments.json
 
-#### <b>Software:</b> Jupyter, Python, Pandas, MongoDB Compass, VSCode
+### Software:
+Jupyter, Python, Pandas, MongoDB Compass, VSCode
