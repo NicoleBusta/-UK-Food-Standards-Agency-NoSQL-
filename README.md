@@ -1,7 +1,7 @@
 # UK Food Standards Agency 
 # Eat Safe, Love (NoSQL)
 
-<img src = "Images/EatSafeLove.jpg">
+<img src = "Images/FSA.jpg">
 
 ## Overview of Project
 The purpose of this project was to analyze Company employees during the 1980s and 1990s. All that remains of the employee database from that time period were six CSV files.
